@@ -1,6 +1,6 @@
 ### Hi there :alien:
 
-- I like do things on GNU/Linux, and i use Gentoo for years...
+- I like do things on GNU/Linux.
 
 - Currently learning 'Bash Script' things.
 
